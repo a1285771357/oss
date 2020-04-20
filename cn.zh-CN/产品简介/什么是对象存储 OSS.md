@@ -1,4 +1,4 @@
-# 什么是对象存储 OSS {#concept_ybr_fg1_tdb .concept}
+# 1什么是对象存储 OSS {#concept_ybr_fg1_tdb .concept}
 
 阿里云对象存储服务（Object Storage Service，简称 OSS），是阿里云提供的海量、安全、低成本、高可靠的云存储服务。其数据设计持久性不低于 99.9999999999%（12 个 9），服务设计可用性（或业务连续性）不低于 99.995%。
 
